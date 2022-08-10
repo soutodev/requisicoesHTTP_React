@@ -5,7 +5,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>Requisições HTTP/React</h1>
+      <h1>Lista de Produtos</h1>
     </div>
   )
 }
