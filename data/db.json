@@ -39,6 +39,41 @@
       "name": "Mouse",
       "price": "50",
       "id": 8
+    },
+    {
+      "name": "",
+      "price": "",
+      "id": 9
+    },
+    {
+      "name": "Microfone USB",
+      "price": "50",
+      "id": 10
+    },
+    {
+      "name": "Microfone USB",
+      "price": "50",
+      "id": 11
+    },
+    {
+      "name": "teste",
+      "price": "10",
+      "id": 12
+    },
+    {
+      "name": "teste",
+      "price": "10",
+      "id": 13
+    },
+    {
+      "name": "teste",
+      "price": "10",
+      "id": 14
+    },
+    {
+      "name": "teste",
+      "price": "10",
+      "id": 15
     }
   ]
 }
